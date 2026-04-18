@@ -1,7 +1,27 @@
+### Dependencies & build ###
+node_modules/
+dist/
+
+### Env ###
+.env
+.env.*
+
+### IDE / Editor settings ###
+.idea/
+.vscode/
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+nbproject/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
-#launch.json folder
-.vscode/
 #Cache folder
 .alcache/
 #Symbols folder
